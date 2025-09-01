@@ -227,7 +227,7 @@
     {
         "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/SunGoProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+        "repositoryUrl": "https://github.com/MixSens/CNCVerse-Cloud-Stream-Extension-cop",
         "fileSize": 16290,
         "status": 1,
         "language": "ta",
@@ -240,7 +240,7 @@
         "version": 5,
         "internalName": "SunGoProvider",
         "description": "Indian Live TV Provider",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/SunGoProvider.cs3",
+        "url": "https://raw.githubusercontent.com/MixSens/CNCVerse-Cloud-Stream-Extension-cop/builds/TamilUltraProvider.cs3",
         "name": "SunGoProvider"
     },
     {
