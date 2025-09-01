@@ -284,7 +284,7 @@
     {
         "iconUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/raw/refs/heads/master/TamilUltraProvider/icon.png",
         "apiVersion": 1,
-        "repositoryUrl": "https://github.com/NivinCNC/CNCVerse-Cloud-Stream-Extension",
+        "repositoryUrl": "https://github.com/MixSens/CNCVerse-Cloud-Stream-Extension-cop",
         "fileSize": 11694,
         "status": 1,
         "language": "ta",
@@ -297,7 +297,7 @@
         "version": 4,
         "internalName": "TamilUltraProvider",
         "description": "Indian Live TV Provider",
-        "url": "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/TamilUltraProvider.cs3",
+        "url": "https://raw.githubusercontent.com/MixSens/CNCVerse-Cloud-Stream-Extension-cop/builds/TamilUltraProvider.cs3",
         "name": "TamilUltraProvider"
     },
     {
